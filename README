@@ -1,3 +1,22 @@
 # 📊 Meu Primeiro Projeto de Análise de Dados
 
-Este é um repositório criado para praticar o uso do GitHub e dar meus primeiros passos com Análise de Dados usando Python e Pandas.
+Este projeto foi criado como parte do meu aprendizado em análise de dados e uso do GitHub.
+
+## 🧠 O que o notebook faz:
+- Cria uma tabela de vendas fictícia
+- Usa Pandas para manipulação de dados
+- Gera um gráfico de barras com Matplotlib
+
+## 🚀 Tecnologias utilizadas:
+- Python
+- Google Colab
+- Pandas
+- Matplotlib
+- GitHub
+
+## ✅ Resultado:
+Gráfico de vendas simples com base em dados fictícios.
+
+---
+
+🧪 Este é apenas o começo! Em breve, novos projetos com dados reais estarão aqui.
